@@ -21,8 +21,8 @@
 ## 🎮 Projects
 ### 1. 13iew - https://github.com/YangSeongIn/13iew_codes_Yang
 소개영상 - 플레이 영상은 없으며 포트폴리오용 기능 시연 영상은 있습니다.   
-:https://www.youtube.com/watch?v=bZ8Bsc6qPIA  
-:https://www.youtube.com/watch?v=xDO4_mI1Moo  
+:https://www.youtube.com/watch?v=p8V7mc-i5Kw 
+:https://www.youtube.com/watch?v=ZA3Xx2ysUng  
 <img alt="13iew" src="https://user-images.githubusercontent.com/28759527/193442667-db8d2764-4807-4ef0-bf9a-e3030d3345e8.png" width="600">
 <p>[기간] 2022.03 ~ 진행 중</p>
 <p>[설명] 1인칭과 3인칭 사이드 뷰를 오가며 플레이하는 퍼즐 호러게임</p>
