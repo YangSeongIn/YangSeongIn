@@ -21,7 +21,7 @@
 ## 🎮 Projects
 ### 1. 13iew
 소개영상 - 플레이 영상은 없으며 포트폴리오용 기능 시연 영상은 있습니다.   
-: https://youtu.be/V4w_y4TVezA
+: https://youtu.be/V4w_y4TVezA  
 <img alt="13iew" src="https://user-images.githubusercontent.com/28759527/193442667-db8d2764-4807-4ef0-bf9a-e3030d3345e8.png" width="600">
 <p>[기간] 2022.03 ~ 진행 중</p>
 <p>[설명] 1인칭과 3인칭 사이드 뷰를 오가며 플레이하는 퍼즐 호러게임</p>
