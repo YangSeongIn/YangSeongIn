@@ -8,7 +8,7 @@
 > 2017.02 ~  2023.02 (예정)  
 **숭실대학교 소프트웨어학부**
 ## 📌 Contact
-- E-mail : sheepadult960412@gmail.com
+- E-mail : didtjddls96@naver.com
 - GitHub : https://github.com/YangSeongIn
 - Tistory : https://sheep-adult.tistory.com/
 
