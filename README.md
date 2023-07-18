@@ -1,5 +1,5 @@
 # 양성인
-- E-mail : didtjddls96@naver.com
+- E-mail : sheepadult960412@gmail.com
 - GitHub : https://github.com/YangSeongIn
 - Tistory : https://sheep-adult.tistory.com/
 
